@@ -1,7 +1,8 @@
 version: 1
 
 project:
-  # Title that appears in metadata and PDF exports
+  type: book
+
   title: "CI0202 - Principios de Informática"
   description: "Material teórico de curso para CI0202"
   keywords:
@@ -11,9 +12,8 @@ project:
     - jupyter
 
   toc:
-    - title: "CI0202 - Principios de Informática"
-      file: index.md
-  
+    - file: index.md
+
     - title: "1. Fundamentos de la Programación"
       file: 1_fundamentos_de_la_programacion/slides.md
 
@@ -60,14 +60,11 @@ project:
           file: 1_fundamentos_de_la_programacion/desactivar_gemini.ipynb
 
 site:
-  theme: "myst"
-
-  # Controls the page title shown in browser tabs
   title: "CI0202 Book"
 
-  # Options specific to the theme
   options:
-    logo: "resources/python.png"     # Path to a site logo
-    favicon: "resources/python.png" # Optional favicon
-    hide_toc: false               # Show the table of contents
-    folders: true                 # Respect your file folder structure in URLs
+    theme: myst
+    logo: "resources/python.png"
+    favicon: "resources/python.png"
+    hide_toc: false
+    folders: true
