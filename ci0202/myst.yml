@@ -1,0 +1,73 @@
+version: 1
+
+project:
+  # Title that appears in metadata and PDF exports
+  title: "CI0202 - Principios de Informática"
+  description: "Material teórico de curso para CI0202"
+  keywords:
+    - computación
+    - CI0202
+    - notas
+    - jupyter
+
+  toc:
+    - title: "CI0202 - Principios de Informática"
+      file: index.md
+  
+    - title: "1. Fundamentos de la Programación"
+      file: 1_fundamentos_de_la_programacion/slides.md
+
+    - title: "2. Variables y Valores"
+      file: 2_variables_y_valores/variables_y_valores.ipynb
+
+    - title: "3. Operadores y Expresiones"
+      file: 3_operadores_y_expresiones/operadores_y_expresiones.ipynb
+
+    - title: "4. Errores y Pruebas"
+      file: 4_errores_y_pruebas/errores_y_pruebas.ipynb
+
+    - title: "5. Entrada y Salida de Datos"
+      file: 5_entrada_y_salida_de_datos/entrada_y_salida_de_datos.ipynb
+
+    - title: "6. Control de Flujo de Ejecución"
+      file: 6_control_de_flujo_de_ejecucion/control_de_flujo_de_ejecucion.ipynb
+
+    - title: "7. Subrutinas"
+      file: 7_subrutinas/subrutinas.ipynb
+
+    - title: "8. Estructuras de Datos Fundamentales"
+      file: 8_estructuras_de_datos_fundamentales/estructuras_de_datos_fundamentales.ipynb
+
+    - title: "9. Introducción al Uso de Bibliotecas"
+      file: 9_introduccion_al_uso_de_bibliotecas/introduccion_al_uso_de_bibliotecas.ipynb
+
+    - title: "10. Computación Numérica"
+      file: 10_computacion_numerica/computacion_numerica.ipynb
+
+    - title: "11. Manipulación de Archivos"
+      file: 11_manipulacion_de_archivos/manipulacion_de_archivos.ipynb
+
+    - title: "12. Visualización de Datos"
+      file: 12_visualizacion_de_datos/visualizacion_de_datos.ipynb
+
+    - title: "Otros recursos"
+      children:
+        - title: "Usos Éticos y No Éticos de la IA"
+          file: 0_usos_eticos_y_no_eticos_de_ia/slides.md
+        - title: "Básicas de Colab"
+          file: 1_fundamentos_de_la_programacion/basicas_de_colab.ipynb
+        - title: "Desactivando Gemini"
+          file: 1_fundamentos_de_la_programacion/desactivar_gemini.ipynb
+
+site:
+  theme: "myst"
+
+  # Controls the page title shown in browser tabs
+  title: "CI0202 Book"
+
+  # Options specific to the theme
+  options:
+    logo: "imagenes/logo.png"     # Path to a site logo
+    favicon: "imagenes/favicon.ico" # Optional favicon
+    hide_toc: false               # Show the table of contents
+    folders: true                 # Respect your file folder structure in URLs
