@@ -67,7 +67,7 @@ site:
 
   # Options specific to the theme
   options:
-    logo: "imagenes/logo.png"     # Path to a site logo
-    favicon: "imagenes/favicon.ico" # Optional favicon
+    logo: "resources/python.png"     # Path to a site logo
+    favicon: "resources/python.png" # Optional favicon
     hide_toc: false               # Show the table of contents
     folders: true                 # Respect your file folder structure in URLs
