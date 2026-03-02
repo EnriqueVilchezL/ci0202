@@ -1,5 +1,5 @@
-# Diagramas de flujo 🗺️
-
+---
+title: "Diagramas de flujo 🗺️"
 ---
 
 ## Introducción 👋

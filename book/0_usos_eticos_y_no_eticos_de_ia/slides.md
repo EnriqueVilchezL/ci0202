@@ -1,5 +1,5 @@
-# Usos éticos de la IA 🤖
-
+---
+title: "Usos éticos de la IA 🤖"
 ---
 
 ## Introducción ✨
