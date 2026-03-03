@@ -15,7 +15,7 @@ project:
     - file: index.md
 
     - title: "1. Fundamentos de la Programación"
-      file: 1_fundamentos_de_la_programacion/slides.md
+      file: 1_fundamentos_de_la_programacion/fundamentos_de_la_programacion.md
 
     - title: "2. Variables y Valores"
       file: 2_variables_y_valores/variables_y_valores.ipynb
@@ -53,9 +53,9 @@ project:
     - title: "Otros recursos"
       children:
         - title: "Usos Éticos y No Éticos de la IA"
-          url: https://raw.githubusercontent.com/EnriqueVilchezL/ci0202/main/book/0_usos_eticos_y_no_eticos_de_ia/usos_eticos_y_no_eticos_de_ia.pdf
+          file: 0_usos_eticos_y_no_eticos_de_ia/usos_eticos_y_no_eticos_de_ia.md
         - title: "Diagramas de Flujo"
-          url: https://raw.githubusercontent.com/EnriqueVilchezL/ci0202/main/book/0_diagramas_de_flujo/diagramas_de_flujo.pdf
+          file: 0_diagramas_de_flujo/diagramas_de_flujo.md
         - title: "Básicas de Colab"
           file: 1_fundamentos_de_la_programacion/basicas_de_colab.ipynb
         - title: "Desactivando Gemini"
