@@ -53,7 +53,9 @@ project:
     - title: "Otros recursos"
       children:
         - title: "Usos Éticos y No Éticos de la IA"
-          file: 0_usos_eticos_y_no_eticos_de_ia/slides.md
+          url: https://raw.githubusercontent.com/EnriqueVilchezL/ci0202/main/book/0_usos_eticos_y_no_eticos_de_ia/usos_eticos_y_no_eticos_de_ia.pdf
+        - title: "Diagramas de Flujo"
+          url: https://raw.githubusercontent.com/EnriqueVilchezL/ci0202/main/book/0_diagramas_de_flujo/diagramas_de_flujo.pdf
         - title: "Básicas de Colab"
           file: 1_fundamentos_de_la_programacion/basicas_de_colab.ipynb
         - title: "Desactivando Gemini"
