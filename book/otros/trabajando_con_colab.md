@@ -30,7 +30,7 @@ pasos importantes:
 
     - Opción 2:
 
-      i.  Vaya a [[colab.google]{.underline}](https://colab.google/),
+      i.  Vaya a [colab.google](https://colab.google/),
           haga clic en la pestaña "Nuevo cuaderno". Luego, haga click en
           la opción "Subir cuaderno \>" en el menú de la izquierda y
           luego seleccione el archivo .ipynb desde su equipo. Esto le

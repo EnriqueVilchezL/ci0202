@@ -14,7 +14,7 @@ pasos importantes:
 
     - Abra [VS Code]{.underline}. Si no lo tiene instalado, puede
       descargarlo en
-      [[https://code.visualstudio.com/download]{.underline}](https://code.visualstudio.com/download).
+      [https://code.visualstudio.com/download](https://code.visualstudio.com/download).
 
     - Diríjase al panel de Extensiones en la barra lateral izquierda (el
       ícono de los cuatro cuadrados).
