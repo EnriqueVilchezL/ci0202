@@ -60,6 +60,10 @@ project:
           file: 1_fundamentos_de_la_programacion/basicas_de_colab.ipynb
         - title: "Desactivando Gemini"
           file: 1_fundamentos_de_la_programacion/desactivar_gemini.ipynb
+        - title: "Trabajando con Colab"
+          file: otros/trabajando_con_colab.md
+        - title: "Trabajando con VS Code"
+          file: otros/trabajando_con_vscode.md
 
 site:
   title: "CI0202 Book"
