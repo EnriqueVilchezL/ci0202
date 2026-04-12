@@ -29,8 +29,8 @@ project:
     - title: "5. Entrada y Salida de Datos"
       file: 5_entrada_y_salida_de_datos/entrada_y_salida_de_datos.ipynb
 
-    # - title: "6. Control de Flujo de Ejecución"
-    #   file: 6_control_de_flujo_de_ejecucion/control_de_flujo_de_ejecucion.ipynb
+    - title: "6. Control de Flujo de Ejecución"
+      file: 6_control_de_flujo_de_ejecucion/control_de_flujo_de_ejecucion.ipynb
 
     # - title: "7. Subrutinas"
     #   file: 7_subrutinas/subrutinas.ipynb
