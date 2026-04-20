@@ -32,8 +32,8 @@ project:
     - title: "6. Control de Flujo de Ejecución"
       file: 6_control_de_flujo_de_ejecucion/control_de_flujo_de_ejecucion.ipynb
 
-    # - title: "7. Subrutinas"
-    #   file: 7_subrutinas/subrutinas.ipynb
+    - title: "7. Subrutinas"
+      file: 7_subrutinas/subrutinas.ipynb
 
     # - title: "8. Estructuras de Datos Fundamentales"
     #   file: 8_estructuras_de_datos_fundamentales/estructuras_de_datos_fundamentales.ipynb
