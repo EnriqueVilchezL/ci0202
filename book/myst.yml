@@ -41,8 +41,8 @@ project:
     - title: "9. Introducción al Uso de Bibliotecas"
       file: 9_introduccion_al_uso_de_bibliotecas/introduccion_al_uso_de_bibliotecas.ipynb
 
-    # - title: "10. Computación Numérica"
-    #   file: 10_computacion_numerica/computacion_numerica.ipynb
+    - title: "10. Computación Numérica"
+      file: 10_computacion_numerica/computacion_numerica.ipynb
 
     # - title: "11. Manipulación de Archivos"
     #   file: 11_manipulacion_de_archivos/manipulacion_de_archivos.ipynb
