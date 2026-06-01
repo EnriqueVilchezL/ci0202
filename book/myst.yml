@@ -44,8 +44,8 @@ project:
     - title: "10. Computación Numérica"
       file: 10_computacion_numerica/computacion_numerica.ipynb
 
-    # - title: "11. Manipulación de Archivos"
-    #   file: 11_manipulacion_de_archivos/manipulacion_de_archivos.ipynb
+    - title: "11. Manipulación de Archivos"
+      file: 11_manipulacion_de_archivos/manipulacion_de_archivos.ipynb
 
     # - title: "12. Visualización de Datos"
     #   file: 12_visualizacion_de_datos/visualizacion_de_datos.ipynb
