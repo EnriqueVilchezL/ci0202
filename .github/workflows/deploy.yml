@@ -37,6 +37,8 @@ jobs:
           node-version: 18.x
       - name: Install MyST
         run: npm install -g mystmd
+      - name: Generate downloadable material zip
+        run: python3 book/scripts/generar_zip_material.py
       - name: Build HTML Assets
         run: |
           cd book

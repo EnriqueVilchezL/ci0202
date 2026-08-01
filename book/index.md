@@ -25,6 +25,14 @@ Este sitio está organizado en los siguientes módulos:
 
 ---
 
+## Descargar el material
+
+¿Prefiere tener todas las lecciones en su computadora? Descargue el material teórico completo (notebooks, Markdown e imágenes) en un solo archivo comprimido.
+
+{button}`Descargar todo el material teórico (.zip) <resources/material_teorico.zip>`
+
+---
+
 ## Información de contacto
 
 Los contenidos de este sitio fueron hechos por:

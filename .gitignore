@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Generated downloadable material (see book/scripts/generar_zip_material.py)
+book/resources/material_teorico.zip
