@@ -4,7 +4,7 @@
 
 ---
 
-> *"La programación no es solo escribir código. Es aprender a pensar con claridad, resolver problemas con creatividad y construir ideas que antes solo existían en tu mente."*
+> *"Todo el mundo debería aprender a programar una computadora, porque te enseña a pensar." - Steve Jobs*
 
 ---
 
@@ -27,7 +27,7 @@ Este sitio está organizado en los siguientes módulos:
 
 ## Descargar el material
 
-¿Prefiere tener todas las lecciones en su computadora? Descargue el material teórico completo (notebooks, Markdown e imágenes) en un solo archivo comprimido.
+¿Prefiere tener todas las lecciones en su computadora? Descargue el material teórico completo (notebooks y pdfs) en un solo archivo comprimido.
 
 {button}`Descargar todo el material teórico (.zip) <resources/material_teorico.zip>`
 
