@@ -17,8 +17,8 @@ project:
     - title: "1. Fundamentos de la Programación"
       file: 1_fundamentos_de_la_programacion/fundamentos_de_la_programacion.md
 
-    # - title: "2. Variables y Valores"
-    #   file: 2_variables_y_valores/variables_y_valores.ipynb
+    - title: "2. Variables y Valores"
+      file: 2_variables_y_valores/variables_y_valores.ipynb
 
     # - title: "3. Operadores y Expresiones"
     #   file: 3_operadores_y_expresiones/operadores_y_expresiones.ipynb
