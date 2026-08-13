@@ -54,10 +54,10 @@ project:
       children:
         - title: "Usos Éticos y No Éticos de la IA"
           file: 0_usos_eticos_y_no_eticos_de_ia/usos_eticos_y_no_eticos_de_ia.md
-        # - title: "Diagramas de Flujo"
-        #   file: 0_diagramas_de_flujo/diagramas_de_flujo.md
-        # - title: "Básicas de Colab"
-        #   file: 1_fundamentos_de_la_programacion/basicas_de_colab.ipynb
+        - title: "Diagramas de Flujo"
+          file: 0_diagramas_de_flujo/diagramas_de_flujo.md
+        - title: "Básicas de Colab"
+          file: 1_fundamentos_de_la_programacion/basicas_de_colab.ipynb
         # - title: "Desactivando Gemini"
         #   file: 1_fundamentos_de_la_programacion/desactivar_gemini.ipynb
         # - title: "Trabajando con Colab"
