@@ -35,8 +35,8 @@ project:
     - title: "7. Subrutinas"
       file: 7_subrutinas/subrutinas.ipynb
 
-    # - title: "8. Estructuras de Datos Fundamentales"
-    #   file: 8_estructuras_de_datos_fundamentales/estructuras_de_datos_fundamentales.ipynb
+    - title: "8. Estructuras de Datos Fundamentales"
+      file: 8_estructuras_de_datos_fundamentales/estructuras_de_datos_fundamentales.ipynb
 
     # - title: "9. Introducción al Uso de Bibliotecas"
     #   file: 9_introduccion_al_uso_de_bibliotecas/introduccion_al_uso_de_bibliotecas.ipynb
