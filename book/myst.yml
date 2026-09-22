@@ -16,39 +16,75 @@ project:
 
     - title: "1. Fundamentos de la Programación"
       file: 1_fundamentos_de_la_programacion/fundamentos_de_la_programacion.md
+      children:
+        - title: "Ejercicios resueltos"
+          file: 1_fundamentos_de_la_programacion/ejercicios_resueltos.ipynb
 
     - title: "2. Variables y Valores"
       file: 2_variables_y_valores/variables_y_valores.ipynb
+      children:
+        - title: "Ejercicios resueltos"
+          file: 2_variables_y_valores/ejercicios_resueltos.ipynb
 
     - title: "3. Operadores y Expresiones"
       file: 3_operadores_y_expresiones/operadores_y_expresiones.ipynb
+      children:
+        - title: "Ejercicios resueltos"
+          file: 3_operadores_y_expresiones/ejercicios_resueltos.ipynb
 
     - title: "4. Errores y Pruebas"
       file: 4_errores_y_pruebas/errores_y_pruebas.ipynb
+      children:
+        - title: "Ejercicios resueltos"
+          file: 4_errores_y_pruebas/ejercicios_resueltos.ipynb
 
     - title: "5. Entrada y Salida de Datos"
       file: 5_entrada_y_salida_de_datos/entrada_y_salida_de_datos.ipynb
+      children:
+        - title: "Ejercicios resueltos"
+          file: 5_entrada_y_salida_de_datos/ejercicios_resueltos.ipynb
 
     - title: "6. Control de Flujo de Ejecución"
       file: 6_control_de_flujo_de_ejecucion/control_de_flujo_de_ejecucion.ipynb
+      children:
+        - title: "Ejercicios resueltos"
+          file: 6_control_de_flujo_de_ejecucion/ejercicios_resueltos.ipynb
 
     - title: "7. Subrutinas"
       file: 7_subrutinas/subrutinas.ipynb
+      children:
+        - title: "Ejercicios resueltos"
+          file: 7_subrutinas/ejercicios_resueltos.ipynb
 
     - title: "8. Estructuras de Datos Fundamentales"
       file: 8_estructuras_de_datos_fundamentales/estructuras_de_datos_fundamentales.ipynb
+      children:
+        - title: "Ejercicios resueltos"
+          file: 8_estructuras_de_datos_fundamentales/ejercicios_resueltos.ipynb
 
     # - title: "9. Introducción al Uso de Bibliotecas"
     #   file: 9_introduccion_al_uso_de_bibliotecas/introduccion_al_uso_de_bibliotecas.ipynb
+    #   children:
+    #     - title: "Ejercicios resueltos"
+    #       file: 9_introduccion_al_uso_de_bibliotecas/ejercicios_resueltos.ipynb
 
     # - title: "10. Computación Numérica"
     #   file: 10_computacion_numerica/computacion_numerica.ipynb
+    #   children:
+    #     - title: "Ejercicios resueltos"
+    #       file: 10_computacion_numerica/ejercicios_resueltos.ipynb
 
     # - title: "11. Manipulación de Archivos"
     #   file: 11_manipulacion_de_archivos/manipulacion_de_archivos.ipynb
+    #   children:
+    #     - title: "Ejercicios resueltos"
+    #       file: 11_manipulacion_de_archivos/ejercicios_resueltos.ipynb
 
     # - title: "12. Visualización de Datos"
     #   file: 12_visualizacion_de_datos/visualizacion_de_datos.ipynb
+    #   children:
+    #     - title: "Ejercicios resueltos"
+    #       file: 12_visualizacion_de_datos/ejercicios_resueltos.ipynb
 
     - title: "Otros recursos"
       children:
