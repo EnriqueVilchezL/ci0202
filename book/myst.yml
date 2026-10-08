@@ -92,6 +92,12 @@ project:
           file: 0_usos_eticos_y_no_eticos_de_ia/usos_eticos_y_no_eticos_de_ia.md
         - title: "Diagramas de Flujo"
           file: 0_diagramas_de_flujo/diagramas_de_flujo.md
+        - title: "Resolución de Problemas"
+          children:
+            - title: "Cómo Resolver un Problema de Programación"
+              file: otros/resolucion_de_problemas/guia_de_resolucion.md
+            - title: "Enunciados Anotados"
+              file: otros/resolucion_de_problemas/enunciados_anotados.md
         - title: "Básicas de Colab"
           file: 1_fundamentos_de_la_programacion/basicas_de_colab.ipynb
         - title: "Desactivando Gemini"

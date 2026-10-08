@@ -1,0 +1,1 @@
+<iframe src="https://cdn.jsdelivr.net/gh/EnriqueVilchezL/ci0202@main/book/0_usos_eticos_y_no_eticos_de_ia/usos_eticos_y_no_eticos_de_ia.pdf"></iframe>
