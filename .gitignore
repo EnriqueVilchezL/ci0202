@@ -208,3 +208,6 @@ __marimo__/
 
 # Generated downloadable material (see book/scripts/generar_zip_material.py)
 book/resources/material_teorico.zip
+
+# MyST build output (generated in CI)
+book/_build/

@@ -62,17 +62,17 @@ project:
         - title: "Ejercicios resueltos"
           file: 8_estructuras_de_datos_fundamentales/ejercicios_resueltos.ipynb
 
-    # - title: "9. Introducción al Uso de Bibliotecas"
-    #   file: 9_introduccion_al_uso_de_bibliotecas/introduccion_al_uso_de_bibliotecas.ipynb
-    #   children:
-    #     - title: "Ejercicios resueltos"
-    #       file: 9_introduccion_al_uso_de_bibliotecas/ejercicios_resueltos.ipynb
+    - title: "9. Introducción al Uso de Bibliotecas"
+      file: 9_introduccion_al_uso_de_bibliotecas/introduccion_al_uso_de_bibliotecas.ipynb
+      children:
+        - title: "Ejercicios resueltos"
+          file: 9_introduccion_al_uso_de_bibliotecas/ejercicios_resueltos.ipynb
 
-    # - title: "10. Computación Numérica"
-    #   file: 10_computacion_numerica/computacion_numerica.ipynb
-    #   children:
-    #     - title: "Ejercicios resueltos"
-    #       file: 10_computacion_numerica/ejercicios_resueltos.ipynb
+    - title: "10. Computación Numérica"
+      file: 10_computacion_numerica/computacion_numerica.ipynb
+      children:
+        - title: "Ejercicios resueltos"
+          file: 10_computacion_numerica/ejercicios_resueltos.ipynb
 
     # - title: "11. Manipulación de Archivos"
     #   file: 11_manipulacion_de_archivos/manipulacion_de_archivos.ipynb
