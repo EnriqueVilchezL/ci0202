@@ -80,11 +80,11 @@ project:
         - title: "Ejercicios resueltos"
           file: 11_manipulacion_de_archivos/ejercicios_resueltos.ipynb
 
-    # - title: "12. Visualización de Datos"
-    #   file: 12_visualizacion_de_datos/visualizacion_de_datos.ipynb
-    #   children:
-    #     - title: "Ejercicios resueltos"
-    #       file: 12_visualizacion_de_datos/ejercicios_resueltos.ipynb
+    - title: "12. Visualización de Datos"
+      file: 12_visualizacion_de_datos/visualizacion_de_datos.ipynb
+      children:
+        - title: "Ejercicios resueltos"
+          file: 12_visualizacion_de_datos/ejercicios_resueltos.ipynb
 
     - title: "Otros recursos"
       children:
